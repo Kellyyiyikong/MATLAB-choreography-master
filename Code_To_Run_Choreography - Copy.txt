@@ -1,0 +1,18 @@
+java -jar "C:\Users\ejcho\Desktop\MATLAB-choreography-master (1)\MATLAB-choreography-master\packages\choreography\Chore.jar" -t 5 -s 0.1 -M 0.18 -p 0.0528 --plugin Reoutline::exp --plugin Respine::0.23::tapered=0.28,1,2 --plugin SpinesForward::rebias --minimum-biased 3mm -S --plugin LarvaCast::angle --map -o srkN "C:\Users\ejcho\Desktop\MATLAB-choreography-master (1)\MATLAB-choreography-master\data\mwt_data\19991231\19991231_235959"
+
+
+## To Run video of larvae crawling ##
+Go to data folder --> mwt-data --> 19991231 --> 19991231_235959 
+Copy the path to the end of the above first line. ( Do not delete "  " mark)
+
+Then, Copy the fist line of this file 
+
+Open command prompt
+
+Paste
+
+Don
+
+## To capture image ##
+
+Go to Powerpoint --> Screenrecoding --> play --> record
